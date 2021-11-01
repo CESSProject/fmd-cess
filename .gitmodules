@@ -10,3 +10,6 @@
 [submodule "storage-mining-tool"]
 	path = storage-mining-tool
 	url = git@github.com:CESSProject/storage-mining-tool.git
+[submodule "scheduler-mining-tool"]
+	path = scheduler-mining-tool
+	url = git@github.com:CESSProject/scheduler-mining-tool.git
