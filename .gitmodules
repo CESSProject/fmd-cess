@@ -1,3 +1,6 @@
 [submodule "cess-node"]
 	path = cess-node
 	url = git@github.com:CESSProject/cess-node.git
+[submodule "web-app"]
+	path = web-app
+	url = git@github.com:CESSProject/web-app.git
