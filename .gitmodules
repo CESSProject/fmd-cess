@@ -7,3 +7,6 @@
 [submodule "cess-ui-js"]
 	path = cess-ui-js
 	url = git@github.com:CESSProject/cess-ui-js.git
+[submodule "storage-mining-tool"]
+	path = storage-mining-tool
+	url = git@github.com:CESSProject/storage-mining-tool.git
