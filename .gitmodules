@@ -4,3 +4,6 @@
 [submodule "web-app"]
 	path = web-app
 	url = git@github.com:CESSProject/web-app.git
+[submodule "cess-ui-js"]
+	path = cess-ui-js
+	url = git@github.com:CESSProject/cess-ui-js.git
