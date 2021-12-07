@@ -1,3 +1,4 @@
+![Image](https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/banner.png)
 # Factor Trading Market for Data Based on CESS Cloud Data Network (FMD-CESS)
 
 ## Inspiration
@@ -59,6 +60,8 @@ By comparing similarities between data fingerprints, the system identifies linea
 ## What it does
 
 The overall system architecture is shown in the figure. There are four components including the FMD-CESS data marketplace,  the CESS Cloud Data Network , Cumulus Encrypted Storage System and the blockchain browser.
+
+<div align=center><img width="68%" height="68%" src="https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/function.png"/></div>
 
 ## We have completed the following tasks during the Hackathon
 
