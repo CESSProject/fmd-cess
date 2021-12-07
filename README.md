@@ -150,10 +150,10 @@ Get testing tokens
 ## Team
 
 The project is done by a development team of 4 members:
-Teh Sunn Liu, from India, Front end developer
-Yeou Sunn Liu, from India, Blockchain developer
-Jack Liu, from India, Blockchain developer
-Ted Zhang, from Hong Kong, Go developer (decentralized storage)
+- **Teh Sunn Liu**, from India, Front end developer
+- **Yeou Sunn Liu**, from India, Blockchain developer
+- **Jack Liu**, from India, Blockchain developer
+- **Ted Zhang**, from China, Go developer (decentralized storage)
 
 ## Challenges we ran into
 
