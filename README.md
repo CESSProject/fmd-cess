@@ -126,9 +126,9 @@ At the same time, blockchain browser, wallet and faucet are developed to facilit
 
 ### 4. Blockchain browser
 
-Blockchain data stats
+- **Blockchain data stats**. Retain the query and display of blockchain system data, such as block info, transaction info, etc.
 
-Account details
+- **Account details**. 
 
 Extrinsic details
 
@@ -138,15 +138,7 @@ Node details
 
 Searching
 
-### 5. Wallet
-
-Wallet creation
-
-Wallet connection
-
-Wallet recovery
-
-### 6. Faucet
+### 5. Faucet
 
 Get testing tokens
 
