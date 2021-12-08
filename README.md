@@ -128,19 +128,19 @@ At the same time, blockchain browser, wallet and faucet are developed to facilit
 
 - **Blockchain data stats**. Retain the query and display of blockchain system data, such as block info, transaction info, etc.
 
-- **Account details**. 
+- **Account details**. In addition to displaying basic content such as balance and account address, it also supports displaying the stored data info of the account.
 
-Extrinsic details
+- **Extrinsic details**. Ability to display detailed info about individual Extrinsic.
 
-Node list
+- **Miner node list**. Display the general info of all storage miners in the form of a table.
 
-Node details
+- **Miner node details**. Show the info of storage miners, including beneficiary address, storage space offered, and storage rewards and other info.
 
-Searching
+- **Searching**. Support search by block hash, extrinsic hash, address and miner ID.
 
 ### 5. Faucet
 
-Get testing tokens
+- **Get testing tokens**. Support users to minter tokens.
 
 ## Team
 
