@@ -102,8 +102,7 @@ CESS Cloud Data Network is built, which can realize:
 
 - **Rewards and punishments for miners**. Rewards and punishments are based on storage proofs. Practical rewards and punishment rules need to be designed, in which rewards will be based on the ratio of the storage miners’ current storage power to the overall network storage power. If storage proofs are not submitted on time, corresponding punishment measures will be taken.
 
-- **BABE module integration**. Considering the security and robustness of the blockchain network, the BABE consensus module will be introduced.
-- **Deployment of Wss and Docker**. Provides a quick and convenient way to start.
+- **Deployment of wss and Docker**. Provides a quick and convenient way to start.
 
 ### 3. Cumulus Encrypted Storage System
 
@@ -128,8 +127,6 @@ In order to realize the security, efficiency and privacy protection of data stor
 At the same time, blockchain explorer, wallet and faucet are developed to facilitate users to use and experience FMD-CESS data trading market. You can view data trading details through web pages.
 
 ### 4. Blockchain explorer
-
-- **Account details**. In addition to displaying basic content such as balance and account address, it also supports displaying the stored data info of the account.
 
 - **Extrinsic details**. Ability to display detailed info about individual Extrinsic.
 
