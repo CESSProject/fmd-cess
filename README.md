@@ -59,7 +59,7 @@ By comparing similarities between data fingerprints, the system identifies linea
 
 ## What it does
 
-The overall system architecture is shown in the figure. There are four components including the FMD-CESS data marketplace,  the CESS Cloud Data Network , Cumulus Encrypted Storage System and the blockchain browser.
+The overall system architecture is shown in the figure. There are four components including the FMD-CESS data marketplace,  the CESS Cloud Data Network , Cumulus Encrypted Storage System and the blockchain explorer.
 
 <div align=center><img width="80%" height="80%" src="https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/banner2.png"/></div>
 
@@ -122,9 +122,9 @@ In order to realize the security, efficiency and privacy protection of data stor
 
 - Data right confirmation mechanism. Design similarity hash algorithms to calculate data similarities for multiple data formats including texts, images, and more.
 
-At the same time, blockchain browser, wallet and faucet are developed to facilitate users to use and experience FMD-CESS data trading market. You can view data trading details through web pages.
+At the same time, blockchain explorer, wallet and faucet are developed to facilitate users to use and experience FMD-CESS data trading market. You can view data trading details through web pages.
 
-### 4. Blockchain browser
+### 4. Blockchain explorer
 
 - **Blockchain data stats**. Retain the query and display of blockchain system data, such as block info, transaction info, etc.
 
