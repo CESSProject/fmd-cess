@@ -19,7 +19,7 @@ Factor Trading Market for Data Based on CESS Cloud Data Network (FMD-CESS) is a 
 
 ## Impact and Versatility
 
-FMD-CESS  is a decentralized application serving global users' needs in data purchasing and its storage on the CESS Cloud Data Network, supported by the Polkadot ecosystem. It provides data element sharing and trading services and ensures data safety holistically by implementing crucial technologies such as blockchain, distributed cloud storage, and data fingerprint extraction.
+FMD-CESS  is a decentralized application serving global users' needs in data purchasing and its storage on the CESS Cloud Data Network, supported by the Polkadot ecosystem. It provides data sharing and trading services and ensures data safety holistically by implementing crucial technologies such as blockchain, distributed cloud storage, and data fingerprint extraction.
 
 FMD-CESS is an intelligent data platform serving users globally, integrating services in data storage, data encryption, data rights confirmation, data management, and data transactions.
 
