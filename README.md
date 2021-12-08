@@ -91,8 +91,6 @@ CESS Cloud Data Network is built, which can realize:
 
 - **On-chain meta-data storage**. Supports uploading of file meta-data to the blockchain, including the file owner, file name, file size, file characteristics, keywords, download fee, expiration date&time, etc.
 
-- **File path**. Provides file storage address.
-
 - **Registration with staking**. Provides a staking and registration function for storage miners. Only storage miners who successfully staking and registration are eligible to participate in storage mining.
 
 - **Data storage proofs submission and verification**. Storage miners need to provide data storage proofs to blockchain during the lifecycle of a stored data file. Both Proof-of-Replication and Proof-of-SpaceTime will be supported.
@@ -100,7 +98,7 @@ CESS Cloud Data Network is built, which can realize:
 - **Rewards and punishments for miners**. Rewards and punishments are based on storage proofs. Practical rewards and punishment rules need to be designed, in which rewards will be based on the ratio of the storage miners’ current storage power to the overall network storage power. If storage proofs are not submitted on time, corresponding punishment measures will be taken.
 
 - **BABE module integration**. Considering the security and robustness of the blockchain network, the BABE consensus module will be introduced.
-Deployment of Wss and Docker. Provides a quick and convenient way to start.
+- **Deployment of Wss and Docker**. Provides a quick and convenient way to start.
 
 ### 3. Cumulus Encrypted Storage System
 
@@ -114,19 +112,17 @@ In order to realize the security, efficiency and privacy protection of data stor
 
 - Data recovery mechanism for scheduling nodes.
 
-- The communication mechanism between a scheduling node and its storage nodes.
+- The communication mechanism between a scheduling node and its storage miners.
 
 - Data reduplication and erasure coding. Generating multiple copies (flexible number of copies) and data recovery erasure codes for client data files.
 
-- Verification mechanism for data storage proofs. Stores data verification info on-chain, and supports scheduling nodes to fetch the verification info and to perform verification tasks towards data storage nodes.
+- Verification mechanism for data storage proofs. Stores proof data info on-chain, and supports scheduling nodes to fetch the proofs from sotrage miner and to perform verification tasks towards storage miners.
 
 - Data right confirmation mechanism. Design similarity hash algorithms to calculate data similarities for multiple data formats including texts, images, and more.
 
 At the same time, blockchain explorer, wallet and faucet are developed to facilitate users to use and experience FMD-CESS data trading market. You can view data trading details through web pages.
 
 ### 4. Blockchain explorer
-
-- **Blockchain data stats**. Retain the query and display of blockchain system data, such as block info, transaction info, etc.
 
 - **Account details**. In addition to displaying basic content such as balance and account address, it also supports displaying the stored data info of the account.
 
