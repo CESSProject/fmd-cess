@@ -61,7 +61,7 @@ By comparing similarities between data fingerprints, the system identifies linea
 
 The overall system architecture is shown in the figure. There are four components including the FMD-CESS data marketplace,  the CESS Cloud Data Network , Cumulus Encrypted Storage System and the blockchain explorer.
 
-<div align=center><img width="80%" height="80%" src="https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/banner2.png"/></div>
+<div align=center><img width="80%" height="80%" src="https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/banner3.png"/></div>
 
 ## We have completed the following tasks during the Hackathon
 
