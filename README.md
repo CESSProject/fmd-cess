@@ -7,7 +7,7 @@ With rapid advances of computing technologies such as AI and machine learning, t
 
 Nevertheless, data transparency issues inflicted by centralization have hindered the true potential of big data to boost production and efficiency, both economically and technologically. There are some problems in the existing data market:
 
-**Data Security**：Prone to data breach, data loss.
+**Data Security**：prone to data breach, data loss.
 
 **Privacy**：data disclosure to third parties,  data altercation.
 
@@ -59,9 +59,14 @@ By comparing similarities between data fingerprints, the system identifies linea
 
 ## What it does
 
-The overall system architecture is shown in the figure. There are four components including the FMD-CESS data marketplace,  the CESS Cloud Data Network , Cumulus Encrypted Storage System and the blockchain explorer.
+The overall system architecture is shown in the figure. There are four components including the FMD-CESS,  The CESS Cloud Data Network , Cumulus Encrypted Storage System and the blockchain explorer.
 
 <div align=center><img width="80%" height="80%" src="https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/banner3.png"/></div>
+
+- **The FMD-CESS (web-app)**: An web platform for users to upload, search, purchase, download data and such operations. In addition, a *data confirmation mechanism* is also implemented. (*Jump into it!*)
+- **The CESS Cloud Data Network (cess-node)**: It's developed based on the *Substrate*. The CESS Cloud Data Network will store the meta-information of all data uploaded by users. In order to support the features of FMD-CESS, it includes sminer, segment book, and file bank pallets.
+- **Cumulus Encrypted Storage System**: The system consists of storage-mining-tool and scheduler-mining-tool. The data will be distributed to different storage miners through scheduler node as users upload data. Similarly, the data will also be obtained from storage miners through scheduler node as users download data.
+- **Blockchain explorer (cess-ui-js)**: It was tailored for the CESS Cloud Data Network, modified from *polkadot-js-app*. You can obtain info on the blockchain from multiple dimensions. (*Jump into it!*)
 
 ## We have completed the following tasks during the Hackathon
 
