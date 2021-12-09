@@ -18,7 +18,7 @@ There are some problems in the existing data market:
 
 Approaches to enhance data storage security, data sharing efficiency, and the protection of data owners' rights are often complex and problematic.
 
-Based on blockchain technology, Factor Trading Market for Data Based on CESS Cloud Data Network (FMD-CESS) realizes point-to-point trusted transaction of decentralized data, data rights confirmation and privacy protection.
+Factor Trading Market for Data Based on CESS Cloud Data Network (FMD-CESS) realizes point-to-point trusted transactions of decentralized data, data rights confirmation, and privacy protection based on blockchain technology.
 
 ## Impact and Versatility
 
@@ -69,9 +69,9 @@ The overall system architecture is shown in the figure. There are four component
 <div align=center><img width="80%" height="80%" src="https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/banner3.png"/></div>
 
 - **The FMD-CESS (web-app)**: An web platform for users to upload, search, purchase, download data and such operations. In addition, a *data confirmation mechanism* is also implemented. (*Jump into it!*)
-- **The CESS Cloud Data Network (*cess-node*)**: It's developed based on the *Substrate*. The CESS Cloud Data Network will store the meta-information of all data uploaded by users. In order to support the features of FMD-CESS, it includes sminer, segment book, and file bank pallets.
-- **Cumulus Encrypted Storage System**: The system consists of *storage-mining-tool* and scheduler-mining-tool. The data will be distributed to different storage miners through scheduler node as users upload data. Similarly, the data will also be obtained from storage miners through scheduler node as users download data.
-- **Blockchain explorer (cess-ui-js)**: It was tailored for the CESS Cloud Data Network, modified from *polkadot-js-app*. You can obtain info on the blockchain from multiple dimensions. (*Jump into it!*)
+- **The CESS Cloud Data Network (*cess-node*)**: is developed based on the *Substrate*. The CESS Cloud Data Network will store the meta-information of all data uploaded by users. In order to support the features of FMD-CESS, it includes sminer, segment book, and file bank pallets.
+- **Cumulus Encrypted Storage System**: consists of *storage-mining-tool* and scheduler-mining-tool. The data will be distributed to different storage miners through scheduler node as users upload data. Similarly, the data will also be obtained from storage miners through scheduler node as users download data.
+- **Blockchain explorer (cess-ui-js)**: is tailored for the CESS Cloud Data Network, modified from *polkadot-js-app*. You can obtain info on the blockchain from multiple dimensions. (*Jump into it!*)
 
 ## We have completed the following tasks during the Hackathon
 
