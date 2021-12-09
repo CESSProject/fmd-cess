@@ -187,3 +187,12 @@ FMD-CESS provides comprehensive solutions for data trading in the Polkadot ecosy
 It is a one-stop decentralized data trading platform that provides data services for both private and commercial use. 
 
 It is capable of processing big data in healthcare, real estate, financial, industrial sectors, etc.
+
+## 🚁 Related Links
+
+Data Trading Market: http://data.cesslab.co.uk/data/
+
+Blockchain Explorer: http://data.cesslab.co.uk/browser or https://polkadot.js.org/apps/ with *wss://cesslab.co.uk/rpc2-hacknet/ws/*
+
+Faucet: http://data.cesslab.co.uk/faucet/
+
