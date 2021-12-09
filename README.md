@@ -2,7 +2,7 @@
 
 # Factor Trading Market for Data Based on CESS Cloud Data Network (FMD-CESS)
 
-## Inspiration
+## 🌠 Inspiration
 
 With rapid advances of computing technologies such as AI and machine learning, the value of humanity's digital assets, the so-called "Digital Gold", is being discovered. Data, being one of the significant digital assets, will eventually be as important as the main production factors like land, labor, and capital in the progression of Web3.0. The inexorable rise of the digital economy has resulted in explosive growth in data generation.
 
@@ -20,7 +20,7 @@ Approaches to enhance data storage security, data sharing efficiency, and the pr
 
 Factor Trading Market for Data Based on CESS Cloud Data Network (FMD-CESS) realizes point-to-point trusted transactions of decentralized data, data rights confirmation, and privacy protection based on blockchain technology.
 
-## Impact and Versatility
+## 🎑 Impact and Versatility
 
 FMD-CESS  is a decentralized application serving global users' needs in data purchasing and its storage on the CESS Cloud Data Network, supported by the Polkadot ecosystem. It provides data sharing and trading services and ensures data safety holistically by implementing crucial technologies such as blockchain, distributed cloud storage, and data fingerprint extraction.
 
@@ -28,7 +28,7 @@ FMD-CESS is an intelligent data platform serving users globally, integrating ser
 
 FMD-CESS will become a decentralized data trading market in the Web 3.0 and is committed to promoting the value interconnection of human data assets!
 
-## Creativity, Innovativeness, Originality
+## 💡 Creativity, Innovativeness, Originality
 
 **Completely decentralized**
 
@@ -62,18 +62,18 @@ FMD-CESS will become a decentralized data trading market in the Web 3.0 and is c
 
 - By comparing similarities between data fingerprints, the system identifies lineages of data files and provides strong evidence for ownership protection.
 
-## What it does
+## ✏️ What it does
 
 The overall system architecture is shown in the figure. There are four components including the FMD-CESS,  The CESS Cloud Data Network , Cumulus Encrypted Storage System and the blockchain explorer.
 
 <div align=center><img width="80%" height="80%" src="https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/banner3.png"/></div>
 
-- **The FMD-CESS (web-app)**: An web platform for users to upload, search, purchase, download data and such operations. In addition, a *data confirmation mechanism* is also implemented. (*Jump into it!*)
-- **The CESS Cloud Data Network (*cess-node*)**: is developed based on the *Substrate*. The CESS Cloud Data Network will store the meta-information of all data uploaded by users. In order to support the features of FMD-CESS, it includes sminer, segment book, and file bank pallets.
-- **Cumulus Encrypted Storage System**: consists of *storage-mining-tool* and scheduler-mining-tool. The data will be distributed to different storage miners through scheduler node as users upload data. Similarly, the data will also be obtained from storage miners through scheduler node as users download data.
-- **Blockchain explorer (cess-ui-js)**: is tailored for the CESS Cloud Data Network, modified from *polkadot-js-app*. You can obtain info on the blockchain from multiple dimensions. (*Jump into it!*)
+- **The FMD-CESS ([*web-app*](https://github.com/CESSProject/web-app))**: An web platform for users to upload, search, purchase, download data and such operations. In addition, a *data rights confirmation mechanism* is also implemented. ([*Jump into it!*](http://data.cesslab.co.uk/data/))
+- **The CESS Cloud Data Network ([*cess-node*](https://github.com/CESSProject/cess-node))**: is developed based on the [*Substrate*](https://github.com/paritytech/substrate). The CESS Cloud Data Network will store the meta-information of all data uploaded by users. In order to support the features of FMD-CESS, it includes sminer, segment book, and file bank pallets.
+- **Cumulus Encrypted Storage System**: consists of [*storage-mining-tool*](https://github.com/CESSProject/storage-mining-tool) and scheduler-mining-tool. The data will be distributed to different storage miners through scheduler node as users upload data. Similarly, the data will also be obtained from storage miners through scheduler node as users download data.
+- **Blockchain explorer ([*cess-ui-js*](https://github.com/CESSProject/cess-ui-js))**: is tailored for the CESS Cloud Data Network, modified from [*polkadot-js-app*](https://github.com/polkadot-js/apps). You can obtain info on the blockchain from multiple dimensions. ([*Jump into it!*](http://data.cesslab.co.uk/browser))
 
-## We have completed the following tasks during the Hackathon
+## 🍁 We have completed the following tasks during the Hackathon
 
 ### 1. FMD-CESS data marketplace has been developed, which features
 
@@ -147,7 +147,7 @@ At the same time, blockchain explorer, wallet and faucet are developed to facili
 
 - **Get testing tokens**. Support users to minter tokens.
 
-## Team
+## 🐥 Team
 
 The project is developed by the engineering team of 4 members:
 
@@ -156,11 +156,11 @@ The project is developed by the engineering team of 4 members:
 - **Jack Liu**, blockchain developer, India
 - **Ted Zhang**,Go developer (decentralized storage), China
 
-## Challenges we ran into
+## 🎢 Challenges we ran into
 
 We ran into many challenges, including but not limited to, the accuracy issue of data rights confirmation algorithm, implementing interoperability between programs coded in different languages (e.g., JS, Go, and Java) and blockchain RPC methods, embedding of complicated modules, and optimization of blockchain speed and stability. We tackled these issues in various ways such as, testing with a large number of data samples, studying and debugging with the SDK interface of each programming language, fixing error reporting via divide-and-conquer, optimizing storage categories, and reducing frequent use of the hooks attribute.
 
-## Accomplishments that I'm proud of
+## 🏆 Accomplishments that I'm proud of
 
 We completed the project based on our past design and development experience of Substrate, Ethereum, Filecoin, and other blockchain projects. We hope that, in the future, the fully constructed and well-tested CESS network will become a valuable parachain of the Polkadot ecosystem. All the components that we have created can be put to use for decentralized systems. Our work meets the expectations of the Hackathon for the following reasons:
 
@@ -172,15 +172,15 @@ We completed the project based on our past design and development experience of 
 
 **User experience (25%)**. Early customers are storage miners and enterprises. We already demonstrated our testnet system to some clients and received very positive feedback.
 
-## What I learned
+## 🎣 What I learned
 
 Our team has learned a lot from the Hackathon project. First, we overcome the challenges in a fast-paced development environment with many dependencies. We quickly adapted to the new design and development model in the blockchain and decentralized world. We studied and gained skills in Rust, Cargo, etc. Also, we built a stronger team through teamwork and experience of communicating with organizations overseas.
 
-## What is next for the FMD-CESS?
+## 📐 What is next for the FMD-CESS?
 
 The upcoming functions for the data trading platform include: data trading on API, the design of data standard and trading standard, and data tracking risk control, etc.
 
-## Mass Usability
+## 📯 Mass Usability
 
 FMD-CESS provides comprehensive solutions for data trading in the Polkadot ecosystem built on Substrate.
 
