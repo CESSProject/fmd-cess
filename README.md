@@ -160,7 +160,7 @@ The project is developed by the engineering team of 4 members:
 
 We ran into many challenges, including but not limited to, the accuracy issue of data rights confirmation algorithm, implementing interoperability between programs coded in different languages (e.g., JS, Go, and Java) and blockchain RPC methods, embedding of complicated modules, and optimization of blockchain speed and stability. We tackled these issues in various ways such as, testing with a large number of data samples, studying and debugging with the SDK interface of each programming language, fixing error reporting via divide-and-conquer, optimizing storage categories, and reducing frequent use of the hooks attribute.
 
-## 🏆 Accomplishments that I'm proud of
+## 🏆 Accomplishments that we are proud of
 
 We completed the project based on our past design and development experience of Substrate, Ethereum, Filecoin, and other blockchain projects. We hope that, in the future, the fully constructed and well-tested CESS network will become a valuable parachain of the Polkadot ecosystem. All the components that we have created can be put to use for decentralized systems. Our work meets the expectations of the Hackathon for the following reasons:
 
@@ -172,7 +172,7 @@ We completed the project based on our past design and development experience of 
 
 **User experience (25%)**. Early customers are storage miners and enterprises. We already demonstrated our testnet system to some clients and received very positive feedback.
 
-## 🎣 What I learned
+## 🎣 What we learned
 
 Our team has learned a lot from the Hackathon project. First, we overcome the challenges in a fast-paced development environment with many dependencies. We quickly adapted to the new design and development model in the blockchain and decentralized world. We studied and gained skills in Rust, Cargo, etc. Also, we built a stronger team through teamwork and experience of communicating with organizations overseas.
 
