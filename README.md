@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/banner4.jpg)
+![Image](https://raw.githubusercontent.com/CESSProject/W3F-illustration/main/hackathon/banner5.jpg)
 
 # Factor Trading Market for Data Based on CESS Cloud Data Network (FMD-CESS)
 
