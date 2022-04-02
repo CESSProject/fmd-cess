@@ -2,6 +2,14 @@
 
 # Factor Trading Market for Data Based on CESS Cloud Data Network (FMD-CESS)
 
+## DEPRECATION NOTICE
+
+On 1 April 2022 this repo will stop being supported.
+
+RMD-CESS, a specially customized project for the Polkadot Hackathon, is an excellent data trading application. Since the competition has been over for some time, we have decided not to continue supporting it.
+
+[`CESS`](https://github.com/CESSProject/cess) has more attractive features and is under continuous development, welcome everyone to pay attention.
+
 ## 🌠 Inspiration
 
 With rapid advances of computing technologies such as AI and machine learning, the value of humanity's digital assets, the so-called "Digital Gold", is being discovered. Data, being one of the significant digital assets, will eventually be as important as the main production factors like land, labor, and capital in the progression of Web3.0. The inexorable rise of the digital economy has resulted in explosive growth in data generation.
