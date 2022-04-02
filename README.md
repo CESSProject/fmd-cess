@@ -4,11 +4,11 @@
 
 ## DEPRECATION NOTICE
 
-On 1 April 2022 this repo will stop being supported.
+On 1 April 2022 ，this repo will stop being supported.
 
 RMD-CESS, a specially customized project for the Polkadot Hackathon, is an excellent data trading application. Since the competition has been over for some time, we have decided not to continue supporting it.
 
-[`CESS`](https://github.com/CESSProject/cess) has more attractive features and is under continuous development, welcome everyone to pay attention.
+[`CESS`](https://github.com/CESSProject/cess) has more attractive features and is a upgraded version under RMD-CESS, welcome everyone to attention.
 
 ## 🌠 Inspiration
 
